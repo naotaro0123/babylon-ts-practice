@@ -1,22 +1,26 @@
 # babylon-ts-practice
+
 babylon.js x TypeScript My Practice
 
+node v17.8.0
+
 # Reference page
+
 [Babylon.js First Steps](https://doc.babylonjs.com/babylon101/first)
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
-$ npm i
+$ yarn
 
 # serve with hot reload at localhost:3000
-$ npm run dev
+$ yarn dev
 
 # build for production and launch server
-$ npm run build
+$ yarn build
 
 # Lint Fix
-$ npm run lint
+$ yarn lint
 
 ```
